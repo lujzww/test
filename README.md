@@ -1,1 +1,1 @@
-# test
+https://sub.id9.cc/sub?target=clash&url=https%3A%2F%2Fxiaoqikeji.cf%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3Dbebf25f09e18ae2d3c7c2bd3ee7b8639&insert=false&config=%E5%93%81%E4%BA%91%E4%B8%93%E5%B1%9E%E9%85%8D%E7%BD%AE&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true
